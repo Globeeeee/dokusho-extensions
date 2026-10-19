@@ -1,0 +1,7 @@
+{
+  "name": "Dokusho",
+  "badgeLabel": "DOK",
+  "signingKey": "PLACEHOLDER_SET_BY_FIRST_PUBLISH",
+  "contact": { "website": "https://github.com/Globeeeee/dokusho" },
+  "extensionList": { "extensions": [] }
+}
