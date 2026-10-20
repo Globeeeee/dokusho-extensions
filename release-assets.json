@@ -1,0 +1,12 @@
+{
+  "eu.kanade.tachiyomi.extension.en.royalroad": {
+    "apk": {
+      "name": "dokusho-en.royalroad-v2.0.1.apk",
+      "sha256": "70106386ca72606c174b52c403239552f96a67cb93c57c6e095fdaba628917f2"
+    },
+    "jar": {
+      "name": "dokusho-en.royalroad-v2.0.1.jar",
+      "sha256": "bf27704789bd9b637cd06ece5e64cb91e1287f77ec80f11c2c3d0a01771eee81"
+    }
+  }
+}
