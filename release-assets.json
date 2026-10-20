@@ -1,12 +1,22 @@
 {
+  "eu.kanade.tachiyomi.extension.en.fanmtl": {
+    "apk": {
+      "name": "dokusho-en.fanmtl-v2.0.2.apk",
+      "sha256": "538aaf46409038900584421e8abf35b691445f211e438916e14d1954bb739748"
+    },
+    "jar": {
+      "name": "dokusho-en.fanmtl-v2.0.2.jar",
+      "sha256": "a94b36a0bc3e9f95dbcae348c6365fcbb185853dc4e0fc6e69f0cd1dfa7dc24c"
+    }
+  },
   "eu.kanade.tachiyomi.extension.en.freewebnovel": {
     "apk": {
       "name": "dokusho-en.freewebnovel-v2.0.2.apk",
-      "sha256": "bdd09a0eb7cbe6fa52a1a2c7707eeb24c0cb23631e4349e1ff26d4fc77bd38f8"
+      "sha256": "403de27041e9d46445d30ef9ed2351788717d1ecad8e00fa3aaf9543b0c8676c"
     },
     "jar": {
       "name": "dokusho-en.freewebnovel-v2.0.2.jar",
-      "sha256": "578fa6122b00e126b33421252ebc1fde5524bdd7c6cea2600255c4462511f2ee"
+      "sha256": "b34ef70d8ba4bd53b8ac3cb6678dda6d634828ee3a44147df09372c01bbb6385"
     }
   },
   "eu.kanade.tachiyomi.extension.en.gutenberg": {
@@ -17,6 +27,26 @@
     "jar": {
       "name": "dokusho-en.gutenberg-v2.0.2.jar",
       "sha256": "f9a151c433c049ae855a594f910d9e63f3ca963f68e8be89c8cd1d32516998dc"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.en.lightnovelheaven": {
+    "apk": {
+      "name": "dokusho-en.lightnovelheaven-v2.0.2.apk",
+      "sha256": "f32568e5d5ca86c05d9dfb885d84607dd9a6168ca3809f3985c291043f0cb373"
+    },
+    "jar": {
+      "name": "dokusho-en.lightnovelheaven-v2.0.2.jar",
+      "sha256": "2bc1b2b2d5070436782db0d61b9794cdfdfc4081dcc725f4225f1d03e9cdea80"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.en.novelbuddy": {
+    "apk": {
+      "name": "dokusho-en.novelbuddy-v2.0.1.apk",
+      "sha256": "307ff9a31696362ae76c71ad36271c38392ae8f0baa213ad92dd4318e4dee998"
+    },
+    "jar": {
+      "name": "dokusho-en.novelbuddy-v2.0.1.jar",
+      "sha256": "3619c9b5689494057395f99dd09b057a52a993a9014a51ac93c18e6d2d31d705"
     }
   },
   "eu.kanade.tachiyomi.extension.en.novelfire": {
@@ -42,31 +72,41 @@
   "eu.kanade.tachiyomi.extension.en.novellive": {
     "apk": {
       "name": "dokusho-en.novellive-v2.0.2.apk",
-      "sha256": "964c9869e8a4363862fbf733c52ffc87826f9cb49366e3f1b1622aeeeb13a698"
+      "sha256": "20a7692caa54f9b9743284fe6a94e3f827b9d7f7d90709ebfa3ef4a7c0d6506f"
     },
     "jar": {
       "name": "dokusho-en.novellive-v2.0.2.jar",
-      "sha256": "8fa561ebe33859bc284e35b4271ebca71133f4e434a95bfc53a99461e5fd6816"
+      "sha256": "01c658b03953f30d9145c6aafc034e0afe0c7cfc3bf4c00b7c7795e541742297"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.en.novelphoenixnet": {
+    "apk": {
+      "name": "dokusho-en.novelphoenixnet-v2.0.2.apk",
+      "sha256": "5fd658a1717f555dee68fa695284db445334772c94100d01587178cc3685f512"
+    },
+    "jar": {
+      "name": "dokusho-en.novelphoenixnet-v2.0.2.jar",
+      "sha256": "7cad4b797907d4250cd1a86f8147008501abc39356b9e206dae53cb7a6d4482e"
     }
   },
   "eu.kanade.tachiyomi.extension.en.novgo": {
     "apk": {
       "name": "dokusho-en.novgo-v2.0.2.apk",
-      "sha256": "9cdce104a275114fe907945c434583682332aa246ac3a59a570293cf6aaeb7de"
+      "sha256": "a3c0f02864b522d283e447dfbb6be1040fec7a24b48ce8d2d19e581b6fb20760"
     },
     "jar": {
       "name": "dokusho-en.novgo-v2.0.2.jar",
-      "sha256": "084513523907564efd2645297a91ee74588976b81f9b254f27527723aac3f961"
+      "sha256": "5fe2219de83b61cf755a9d00a7abc44a8ea7b87d69db520a81809ecd922bf7d3"
     }
   },
   "eu.kanade.tachiyomi.extension.en.readnovelfull": {
     "apk": {
       "name": "dokusho-en.readnovelfull-v2.0.2.apk",
-      "sha256": "73bb541504d3cce015d1956056b0d3fdb7e318633ffa225b99192d85ef39f9f5"
+      "sha256": "3945791104501ea14a9b83b83610d7481044d988adfba30f505fa221eadbe3f5"
     },
     "jar": {
       "name": "dokusho-en.readnovelfull-v2.0.2.jar",
-      "sha256": "b0042e22b7ea05d015462b315057f76614e01fcaf56452bd380f711088fa8e7d"
+      "sha256": "9275b6dc66d4863d8ffb660464daccca25397b8fed67516d810ea33a0747fdf4"
     }
   },
   "eu.kanade.tachiyomi.extension.en.royalroad": {
@@ -109,6 +149,26 @@
       "sha256": "d50bbdb1cdd58d3c2a02f7c24e8360b8955e3b6c71df06e16aa7281afe98518e"
     }
   },
+  "eu.kanade.tachiyomi.extension.en.wuxiabox": {
+    "apk": {
+      "name": "dokusho-en.wuxiabox-v2.0.2.apk",
+      "sha256": "099fe1ce48ee2878780106c4c0e62086fe9a479bbb4ebc2440c8f14ce61ac392"
+    },
+    "jar": {
+      "name": "dokusho-en.wuxiabox-v2.0.2.jar",
+      "sha256": "0d21d81f8003ebcd905bb189173a6c9ea86957d1082bf7c4ac4e28e6a9e7cfc7"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.en.wuxiaspot": {
+    "apk": {
+      "name": "dokusho-en.wuxiaspot-v2.0.2.apk",
+      "sha256": "26ae9744ee571ae4cea07da03c9c4290f33a07572653f12c62ec66a164e26bcc"
+    },
+    "jar": {
+      "name": "dokusho-en.wuxiaspot-v2.0.2.jar",
+      "sha256": "dbdd770469dda15f643b9c81b930498c3c475eed26ead777cc819a91e04b3238"
+    }
+  },
   "eu.kanade.tachiyomi.extension.en.wuxiaworld": {
     "apk": {
       "name": "dokusho-en.wuxiaworld-v2.0.1.apk",
@@ -127,6 +187,16 @@
     "jar": {
       "name": "dokusho-en.wuxiaworldeu-v2.0.1.jar",
       "sha256": "80d38e0a3d3d528cefbb4abff8881727370627fb4fbc87dea36604318763d8e4"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.en.wuxiaworldsite": {
+    "apk": {
+      "name": "dokusho-en.wuxiaworldsite-v2.0.2.apk",
+      "sha256": "fec6c3f438ab335c67faad72ab68bc19444ff0e4d7fc83c15a16d9206d260be6"
+    },
+    "jar": {
+      "name": "dokusho-en.wuxiaworldsite-v2.0.2.jar",
+      "sha256": "cf6bba76aab615f72d19f15a3c794638c734c76ccee123089a371bcbde5b3304"
     }
   },
   "eu.kanade.tachiyomi.extension.ja.syosetu": {
