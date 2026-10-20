@@ -18,5 +18,25 @@
       "name": "dokusho-en.scribblehub-v2.0.1.jar",
       "sha256": "af37aa4b351fe2820aa6d70168625f19be3885ac55b81798b3234bf51034f755"
     }
+  },
+  "eu.kanade.tachiyomi.extension.en.wattpad": {
+    "apk": {
+      "name": "dokusho-en.wattpad-v2.0.1.apk",
+      "sha256": "126bc92a05bb73459e5de915239f7f74c5789cde40287e67bdb3ce2e73c78d23"
+    },
+    "jar": {
+      "name": "dokusho-en.wattpad-v2.0.1.jar",
+      "sha256": "d50bbdb1cdd58d3c2a02f7c24e8360b8955e3b6c71df06e16aa7281afe98518e"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.en.wuxiaworld": {
+    "apk": {
+      "name": "dokusho-en.wuxiaworld-v2.0.1.apk",
+      "sha256": "aa0f483a6617d0a72160d362516f9b22728071e490e8c33414a90f844639a633"
+    },
+    "jar": {
+      "name": "dokusho-en.wuxiaworld-v2.0.1.jar",
+      "sha256": "a12a9333b9249e2ae22c7b119a4456b30181e67cca2b1edbb72585ee3d56ddf4"
+    }
   }
 }

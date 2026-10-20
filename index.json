@@ -48,6 +48,48 @@
             "homeUrl": "https://www.scribblehub.com"
           }
         ]
+      },
+      {
+        "name": "Wattpad",
+        "packageName": "eu.kanade.tachiyomi.extension.en.wattpad",
+        "resources": {
+          "apkUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/e26824f/dokusho-en.wattpad-v2.0.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Globeeeee/dokusho-extensions-source@main/src/en/wattpad/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/e26824f/dokusho-en.wattpad-v2.0.1.jar"
+        },
+        "extensionLib": "2.0",
+        "versionCode": "200001",
+        "versionName": "2.0.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "4553407678232489809",
+            "name": "Wattpad",
+            "language": "en",
+            "homeUrl": "https://www.wattpad.com"
+          }
+        ]
+      },
+      {
+        "name": "WuxiaWorld",
+        "packageName": "eu.kanade.tachiyomi.extension.en.wuxiaworld",
+        "resources": {
+          "apkUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/e26824f/dokusho-en.wuxiaworld-v2.0.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Globeeeee/dokusho-extensions-source@main/src/en/wuxiaworld/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/e26824f/dokusho-en.wuxiaworld-v2.0.1.jar"
+        },
+        "extensionLib": "2.0",
+        "versionCode": "200001",
+        "versionName": "2.0.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "6540843430852844328",
+            "name": "WuxiaWorld",
+            "language": "en",
+            "homeUrl": "https://www.wuxiaworld.com"
+          }
+        ]
       }
     ]
   }
