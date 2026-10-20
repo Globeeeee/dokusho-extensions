@@ -8,16 +8,37 @@
   "extensionList": {
     "extensions": [
       {
+        "name": "FreeWebNovel",
+        "packageName": "eu.kanade.tachiyomi.extension.en.freewebnovel",
+        "resources": {
+          "apkUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/a0c0548/dokusho-en.freewebnovel-v2.0.2.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Globeeeee/dokusho-extensions-source@main/src/en/freewebnovel/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/a0c0548/dokusho-en.freewebnovel-v2.0.2.jar"
+        },
+        "extensionLib": "2.0",
+        "versionCode": "200002",
+        "versionName": "2.0.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "3970612267773145070",
+            "name": "FreeWebNovel",
+            "language": "en",
+            "homeUrl": "https://freewebnovel.com"
+          }
+        ]
+      },
+      {
         "name": "Project Gutenberg",
         "packageName": "eu.kanade.tachiyomi.extension.en.gutenberg",
         "resources": {
-          "apkUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/3998023/dokusho-en.gutenberg-v2.0.1.apk",
+          "apkUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/a0c0548/dokusho-en.gutenberg-v2.0.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Globeeeee/dokusho-extensions-source@main/src/en/gutenberg/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/3998023/dokusho-en.gutenberg-v2.0.1.jar"
+          "jarUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/a0c0548/dokusho-en.gutenberg-v2.0.2.jar"
         },
         "extensionLib": "2.0",
-        "versionCode": "200001",
-        "versionName": "2.0.1",
+        "versionCode": "200002",
+        "versionName": "2.0.2",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -25,6 +46,111 @@
             "name": "Project Gutenberg",
             "language": "en",
             "homeUrl": "https://www.gutenberg.org"
+          }
+        ]
+      },
+      {
+        "name": "Novel Fire",
+        "packageName": "eu.kanade.tachiyomi.extension.en.novelfire",
+        "resources": {
+          "apkUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/a0c0548/dokusho-en.novelfire-v2.0.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Globeeeee/dokusho-extensions-source@main/src/en/novelfire/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/a0c0548/dokusho-en.novelfire-v2.0.1.jar"
+        },
+        "extensionLib": "2.0",
+        "versionCode": "200001",
+        "versionName": "2.0.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "362477112063851529",
+            "name": "Novel Fire",
+            "language": "en",
+            "homeUrl": "https://novelfire.net"
+          }
+        ]
+      },
+      {
+        "name": "NovelHi",
+        "packageName": "eu.kanade.tachiyomi.extension.en.novelhi",
+        "resources": {
+          "apkUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/a0c0548/dokusho-en.novelhi-v2.0.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Globeeeee/dokusho-extensions-source@main/src/en/novelhi/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/a0c0548/dokusho-en.novelhi-v2.0.1.jar"
+        },
+        "extensionLib": "2.0",
+        "versionCode": "200001",
+        "versionName": "2.0.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "8933333716239534946",
+            "name": "NovelHi",
+            "language": "en",
+            "homeUrl": "https://novelhi.com"
+          }
+        ]
+      },
+      {
+        "name": "NovelLive",
+        "packageName": "eu.kanade.tachiyomi.extension.en.novellive",
+        "resources": {
+          "apkUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/a0c0548/dokusho-en.novellive-v2.0.2.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Globeeeee/dokusho-extensions-source@main/src/en/novellive/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/a0c0548/dokusho-en.novellive-v2.0.2.jar"
+        },
+        "extensionLib": "2.0",
+        "versionCode": "200002",
+        "versionName": "2.0.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "2137700184007023421",
+            "name": "NovelLive",
+            "language": "en",
+            "homeUrl": "https://novellive.app"
+          }
+        ]
+      },
+      {
+        "name": "NOVGO (AllNovelFull)",
+        "packageName": "eu.kanade.tachiyomi.extension.en.novgo",
+        "resources": {
+          "apkUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/a0c0548/dokusho-en.novgo-v2.0.2.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Globeeeee/dokusho-extensions-source@main/src/en/novgo/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/a0c0548/dokusho-en.novgo-v2.0.2.jar"
+        },
+        "extensionLib": "2.0",
+        "versionCode": "200002",
+        "versionName": "2.0.2",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "5236563979483995834",
+            "name": "NOVGO (AllNovelFull)",
+            "language": "en",
+            "homeUrl": "https://novgo.net"
+          }
+        ]
+      },
+      {
+        "name": "ReadNovelFull",
+        "packageName": "eu.kanade.tachiyomi.extension.en.readnovelfull",
+        "resources": {
+          "apkUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/a0c0548/dokusho-en.readnovelfull-v2.0.2.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Globeeeee/dokusho-extensions-source@main/src/en/readnovelfull/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/a0c0548/dokusho-en.readnovelfull-v2.0.2.jar"
+        },
+        "extensionLib": "2.0",
+        "versionCode": "200002",
+        "versionName": "2.0.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "2528364313208007455",
+            "name": "ReadNovelFull",
+            "language": "en",
+            "homeUrl": "https://readnovelfull.com"
           }
         ]
       },
@@ -71,6 +197,27 @@
         ]
       },
       {
+        "name": "Shadow Slave (shadowslave.space)",
+        "packageName": "eu.kanade.tachiyomi.extension.en.shadowslave",
+        "resources": {
+          "apkUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/a0c0548/dokusho-en.shadowslave-v2.0.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Globeeeee/dokusho-extensions-source@main/src/en/shadowslave/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/a0c0548/dokusho-en.shadowslave-v2.0.1.jar"
+        },
+        "extensionLib": "2.0",
+        "versionCode": "200001",
+        "versionName": "2.0.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "5971301990223773905",
+            "name": "Shadow Slave (shadowslave.space)",
+            "language": "en",
+            "homeUrl": "https://shadowslave.space"
+          }
+        ]
+      },
+      {
         "name": "Wattpad",
         "packageName": "eu.kanade.tachiyomi.extension.en.wattpad",
         "resources": {
@@ -109,6 +256,27 @@
             "name": "WuxiaWorld",
             "language": "en",
             "homeUrl": "https://www.wuxiaworld.com"
+          }
+        ]
+      },
+      {
+        "name": "WuxiaWorld.eu",
+        "packageName": "eu.kanade.tachiyomi.extension.en.wuxiaworldeu",
+        "resources": {
+          "apkUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/a0c0548/dokusho-en.wuxiaworldeu-v2.0.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Globeeeee/dokusho-extensions-source@main/src/en/wuxiaworldeu/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/a0c0548/dokusho-en.wuxiaworldeu-v2.0.1.jar"
+        },
+        "extensionLib": "2.0",
+        "versionCode": "200001",
+        "versionName": "2.0.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "3790682348890859998",
+            "name": "WuxiaWorld.eu",
+            "language": "en",
+            "homeUrl": "https://wuxiaworld.eu"
           }
         ]
       },

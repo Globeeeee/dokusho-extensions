@@ -1,12 +1,72 @@
 {
-  "eu.kanade.tachiyomi.extension.en.gutenberg": {
+  "eu.kanade.tachiyomi.extension.en.freewebnovel": {
     "apk": {
-      "name": "dokusho-en.gutenberg-v2.0.1.apk",
-      "sha256": "61ed355863a0eace3a74cfdef13374fdae61ba223c3127baaa154ab32a94c772"
+      "name": "dokusho-en.freewebnovel-v2.0.2.apk",
+      "sha256": "bdd09a0eb7cbe6fa52a1a2c7707eeb24c0cb23631e4349e1ff26d4fc77bd38f8"
     },
     "jar": {
-      "name": "dokusho-en.gutenberg-v2.0.1.jar",
-      "sha256": "5d4de0d85d6641a492ce138715753e99a5b53d634e7fcac570d830c872baf9e2"
+      "name": "dokusho-en.freewebnovel-v2.0.2.jar",
+      "sha256": "578fa6122b00e126b33421252ebc1fde5524bdd7c6cea2600255c4462511f2ee"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.en.gutenberg": {
+    "apk": {
+      "name": "dokusho-en.gutenberg-v2.0.2.apk",
+      "sha256": "b4459ceeba974e0aa0fdd915967d90f7a07d41b342f6de9aa5e7dc75266aeff4"
+    },
+    "jar": {
+      "name": "dokusho-en.gutenberg-v2.0.2.jar",
+      "sha256": "f9a151c433c049ae855a594f910d9e63f3ca963f68e8be89c8cd1d32516998dc"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.en.novelfire": {
+    "apk": {
+      "name": "dokusho-en.novelfire-v2.0.1.apk",
+      "sha256": "0f38f06361ccf277382b5de45908c5b895de95c46a2df8ddefa836d3718e7419"
+    },
+    "jar": {
+      "name": "dokusho-en.novelfire-v2.0.1.jar",
+      "sha256": "2929a3f330cc32b5a6d2abff0b3b18b25559e12918f1b5396c1c737747710a76"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.en.novelhi": {
+    "apk": {
+      "name": "dokusho-en.novelhi-v2.0.1.apk",
+      "sha256": "58abc4f9dac6d20d00a2515aa1bcc8d58ead58734950901564d214c8819d4dce"
+    },
+    "jar": {
+      "name": "dokusho-en.novelhi-v2.0.1.jar",
+      "sha256": "6a7d35f49e46a2f597aa762e89547b8e3faa59cd55fc0fef88048cb6404dd924"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.en.novellive": {
+    "apk": {
+      "name": "dokusho-en.novellive-v2.0.2.apk",
+      "sha256": "964c9869e8a4363862fbf733c52ffc87826f9cb49366e3f1b1622aeeeb13a698"
+    },
+    "jar": {
+      "name": "dokusho-en.novellive-v2.0.2.jar",
+      "sha256": "8fa561ebe33859bc284e35b4271ebca71133f4e434a95bfc53a99461e5fd6816"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.en.novgo": {
+    "apk": {
+      "name": "dokusho-en.novgo-v2.0.2.apk",
+      "sha256": "9cdce104a275114fe907945c434583682332aa246ac3a59a570293cf6aaeb7de"
+    },
+    "jar": {
+      "name": "dokusho-en.novgo-v2.0.2.jar",
+      "sha256": "084513523907564efd2645297a91ee74588976b81f9b254f27527723aac3f961"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.en.readnovelfull": {
+    "apk": {
+      "name": "dokusho-en.readnovelfull-v2.0.2.apk",
+      "sha256": "73bb541504d3cce015d1956056b0d3fdb7e318633ffa225b99192d85ef39f9f5"
+    },
+    "jar": {
+      "name": "dokusho-en.readnovelfull-v2.0.2.jar",
+      "sha256": "b0042e22b7ea05d015462b315057f76614e01fcaf56452bd380f711088fa8e7d"
     }
   },
   "eu.kanade.tachiyomi.extension.en.royalroad": {
@@ -29,6 +89,16 @@
       "sha256": "af37aa4b351fe2820aa6d70168625f19be3885ac55b81798b3234bf51034f755"
     }
   },
+  "eu.kanade.tachiyomi.extension.en.shadowslave": {
+    "apk": {
+      "name": "dokusho-en.shadowslave-v2.0.1.apk",
+      "sha256": "ae7ecdd0fcb76c0baf8e74b89bca56c45b7e347ded2c7ba5ae13db3d52d8d6e7"
+    },
+    "jar": {
+      "name": "dokusho-en.shadowslave-v2.0.1.jar",
+      "sha256": "02b075fff6f7c1700438f21366552fbd3961589dec3b6bc0ac8cf00a6d03bb87"
+    }
+  },
   "eu.kanade.tachiyomi.extension.en.wattpad": {
     "apk": {
       "name": "dokusho-en.wattpad-v2.0.1.apk",
@@ -47,6 +117,16 @@
     "jar": {
       "name": "dokusho-en.wuxiaworld-v2.0.1.jar",
       "sha256": "a12a9333b9249e2ae22c7b119a4456b30181e67cca2b1edbb72585ee3d56ddf4"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.en.wuxiaworldeu": {
+    "apk": {
+      "name": "dokusho-en.wuxiaworldeu-v2.0.1.apk",
+      "sha256": "0c8c401adc79b27ceed5f8ca3afd8cca283f0eeec2d57618f48424d48e829d1a"
+    },
+    "jar": {
+      "name": "dokusho-en.wuxiaworldeu-v2.0.1.jar",
+      "sha256": "80d38e0a3d3d528cefbb4abff8881727370627fb4fbc87dea36604318763d8e4"
     }
   },
   "eu.kanade.tachiyomi.extension.ja.syosetu": {
