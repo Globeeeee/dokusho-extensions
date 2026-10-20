@@ -74,13 +74,13 @@
         "name": "LightNovelHeaven",
         "packageName": "eu.kanade.tachiyomi.extension.en.lightnovelheaven",
         "resources": {
-          "apkUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/bd57e78/dokusho-en.lightnovelheaven-v2.0.2.apk",
+          "apkUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/91710f3/dokusho-en.lightnovelheaven-v2.0.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Globeeeee/dokusho-extensions-source@main/src/en/lightnovelheaven/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/bd57e78/dokusho-en.lightnovelheaven-v2.0.2.jar"
+          "jarUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/91710f3/dokusho-en.lightnovelheaven-v2.0.3.jar"
         },
         "extensionLib": "2.0",
-        "versionCode": "200002",
-        "versionName": "2.0.2",
+        "versionCode": "200003",
+        "versionName": "2.0.3",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -137,13 +137,13 @@
         "name": "NovelHi",
         "packageName": "eu.kanade.tachiyomi.extension.en.novelhi",
         "resources": {
-          "apkUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/a0c0548/dokusho-en.novelhi-v2.0.1.apk",
+          "apkUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/91710f3/dokusho-en.novelhi-v2.0.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Globeeeee/dokusho-extensions-source@main/src/en/novelhi/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/a0c0548/dokusho-en.novelhi-v2.0.1.jar"
+          "jarUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/91710f3/dokusho-en.novelhi-v2.0.2.jar"
         },
         "extensionLib": "2.0",
-        "versionCode": "200001",
-        "versionName": "2.0.1",
+        "versionCode": "200002",
+        "versionName": "2.0.2",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -158,13 +158,13 @@
         "name": "NovelLive",
         "packageName": "eu.kanade.tachiyomi.extension.en.novellive",
         "resources": {
-          "apkUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/bd57e78/dokusho-en.novellive-v2.0.2.apk",
+          "apkUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/91710f3/dokusho-en.novellive-v2.0.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Globeeeee/dokusho-extensions-source@main/src/en/novellive/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/bd57e78/dokusho-en.novellive-v2.0.2.jar"
+          "jarUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/91710f3/dokusho-en.novellive-v2.0.3.jar"
         },
         "extensionLib": "2.0",
-        "versionCode": "200002",
-        "versionName": "2.0.2",
+        "versionCode": "200003",
+        "versionName": "2.0.3",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -221,13 +221,13 @@
         "name": "ReadNovelFull",
         "packageName": "eu.kanade.tachiyomi.extension.en.readnovelfull",
         "resources": {
-          "apkUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/bd57e78/dokusho-en.readnovelfull-v2.0.2.apk",
+          "apkUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/91710f3/dokusho-en.readnovelfull-v2.0.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Globeeeee/dokusho-extensions-source@main/src/en/readnovelfull/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/bd57e78/dokusho-en.readnovelfull-v2.0.2.jar"
+          "jarUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/91710f3/dokusho-en.readnovelfull-v2.0.3.jar"
         },
         "extensionLib": "2.0",
-        "versionCode": "200002",
-        "versionName": "2.0.2",
+        "versionCode": "200003",
+        "versionName": "2.0.3",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -284,13 +284,13 @@
         "name": "Shadow Slave (shadowslave.space)",
         "packageName": "eu.kanade.tachiyomi.extension.en.shadowslave",
         "resources": {
-          "apkUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/a0c0548/dokusho-en.shadowslave-v2.0.1.apk",
+          "apkUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/91710f3/dokusho-en.shadowslave-v2.0.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Globeeeee/dokusho-extensions-source@main/src/en/shadowslave/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/a0c0548/dokusho-en.shadowslave-v2.0.1.jar"
+          "jarUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/91710f3/dokusho-en.shadowslave-v2.0.2.jar"
         },
         "extensionLib": "2.0",
-        "versionCode": "200001",
-        "versionName": "2.0.1",
+        "versionCode": "200002",
+        "versionName": "2.0.2",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -410,13 +410,13 @@
         "name": "WuxiaWorld.site",
         "packageName": "eu.kanade.tachiyomi.extension.en.wuxiaworldsite",
         "resources": {
-          "apkUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/bd57e78/dokusho-en.wuxiaworldsite-v2.0.2.apk",
+          "apkUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/91710f3/dokusho-en.wuxiaworldsite-v2.0.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Globeeeee/dokusho-extensions-source@main/src/en/wuxiaworldsite/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/bd57e78/dokusho-en.wuxiaworldsite-v2.0.2.jar"
+          "jarUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/91710f3/dokusho-en.wuxiaworldsite-v2.0.3.jar"
         },
         "extensionLib": "2.0",
-        "versionCode": "200002",
-        "versionName": "2.0.2",
+        "versionCode": "200003",
+        "versionName": "2.0.3",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
