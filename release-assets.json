@@ -1,4 +1,24 @@
 {
+  "eu.kanade.tachiyomi.extension.en.ao3": {
+    "apk": {
+      "name": "dokusho-en.ao3-v2.0.1.apk",
+      "sha256": "3d712a63d5b1125d034bbcc53b632f18bb642d7ec6b5aa84f7ad4eca839db39d"
+    },
+    "jar": {
+      "name": "dokusho-en.ao3-v2.0.1.jar",
+      "sha256": "e95b1ba1dac47322a3551f5c72675b25e9fe2d89980e8935c09670e818b1c8d0"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.en.fanfictionnet": {
+    "apk": {
+      "name": "dokusho-en.fanfictionnet-v2.0.2.apk",
+      "sha256": "6260f90b1b367e00c5cf608155d7e89b6b5290a856eacf7663f33c4db4291cbd"
+    },
+    "jar": {
+      "name": "dokusho-en.fanfictionnet-v2.0.2.jar",
+      "sha256": "4324bbafadd0e9020a65649c57b9fe5b960e84fbfcad4294dba6d2f7f0e85a1d"
+    }
+  },
   "eu.kanade.tachiyomi.extension.en.fanmtl": {
     "apk": {
       "name": "dokusho-en.fanmtl-v2.0.3.apk",
@@ -7,6 +27,16 @@
     "jar": {
       "name": "dokusho-en.fanmtl-v2.0.3.jar",
       "sha256": "6ee84a1571a8eef4c927b294d99c3e008f13d72444a9a99fe6a67516c2885d3d"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.en.fictionpress": {
+    "apk": {
+      "name": "dokusho-en.fictionpress-v2.0.2.apk",
+      "sha256": "c08b6b0e39c777064acfa184ff3821f0bcb02f60910abe2be59957ff281eba68"
+    },
+    "jar": {
+      "name": "dokusho-en.fictionpress-v2.0.2.jar",
+      "sha256": "3c9ff56f42a6898da3e910d43ee674d3218df6ff97187e9e596690bc2a6b146c"
     }
   },
   "eu.kanade.tachiyomi.extension.en.freewebnovel": {
@@ -139,6 +169,26 @@
       "sha256": "eec8e7e8b42f2634142c481e5619d748af26372540ddb6cf2998e4bd99b24aed"
     }
   },
+  "eu.kanade.tachiyomi.extension.en.spacebattles": {
+    "apk": {
+      "name": "dokusho-en.spacebattles-v2.0.2.apk",
+      "sha256": "b577c6f0d55f5e738aabbc5478c4274495dc1ae1b9bf6039d88db249a1890e0f"
+    },
+    "jar": {
+      "name": "dokusho-en.spacebattles-v2.0.2.jar",
+      "sha256": "05d7f7644f2d3c426d4fdec289f988c2415b4f160c8cc8cf1c3361f7afee644b"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.en.sufficientvelocity": {
+    "apk": {
+      "name": "dokusho-en.sufficientvelocity-v2.0.2.apk",
+      "sha256": "8ff5b192913e81524fc7b022e26a1db5b5908ffeb055cdfa87c8c5ff5171f56f"
+    },
+    "jar": {
+      "name": "dokusho-en.sufficientvelocity-v2.0.2.jar",
+      "sha256": "4f980d8f79893076818ad3c678ebc60b3d73448e228324d928ac33eb4def645d"
+    }
+  },
   "eu.kanade.tachiyomi.extension.en.wattpad": {
     "apk": {
       "name": "dokusho-en.wattpad-v2.0.2.apk",
@@ -147,6 +197,16 @@
     "jar": {
       "name": "dokusho-en.wattpad-v2.0.2.jar",
       "sha256": "906049e6649f4852c4abc00071c61cb0cab0d3f021bea8669ddaf12d8220bc39"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.en.webnovel": {
+    "apk": {
+      "name": "dokusho-en.webnovel-v2.0.1.apk",
+      "sha256": "d51698b5ef5eb537abeb2e51fde11a858d24fb6bbcbc2b4e6d3d2ff71afaa760"
+    },
+    "jar": {
+      "name": "dokusho-en.webnovel-v2.0.1.jar",
+      "sha256": "918f11137ab68d2afde3c8b345a203f219bf9c39dfe3b311a5dd8947c7433429"
     }
   },
   "eu.kanade.tachiyomi.extension.en.wuxiabox": {

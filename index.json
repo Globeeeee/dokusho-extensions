@@ -8,6 +8,48 @@
   "extensionList": {
     "extensions": [
       {
+        "name": "Archive of Our Own",
+        "packageName": "eu.kanade.tachiyomi.extension.en.ao3",
+        "resources": {
+          "apkUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/6021a52/dokusho-en.ao3-v2.0.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Globeeeee/dokusho-extensions-source@main/src/en/ao3/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/6021a52/dokusho-en.ao3-v2.0.1.jar"
+        },
+        "extensionLib": "2.0",
+        "versionCode": "200001",
+        "versionName": "2.0.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "6355922388527737258",
+            "name": "Archive of Our Own",
+            "language": "en",
+            "homeUrl": "https://archiveofourown.org"
+          }
+        ]
+      },
+      {
+        "name": "FanFiction.Net",
+        "packageName": "eu.kanade.tachiyomi.extension.en.fanfictionnet",
+        "resources": {
+          "apkUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/6021a52/dokusho-en.fanfictionnet-v2.0.2.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Globeeeee/dokusho-extensions-source@main/src/en/fanfictionnet/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/6021a52/dokusho-en.fanfictionnet-v2.0.2.jar"
+        },
+        "extensionLib": "2.0",
+        "versionCode": "200002",
+        "versionName": "2.0.2",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "2736361695592712297",
+            "name": "FanFiction.Net",
+            "language": "en",
+            "homeUrl": "https://www.fanfiction.net"
+          }
+        ]
+      },
+      {
         "name": "FanMTL",
         "packageName": "eu.kanade.tachiyomi.extension.en.fanmtl",
         "resources": {
@@ -25,6 +67,27 @@
             "name": "FanMTL",
             "language": "en",
             "homeUrl": "https://www.fanmtl.com"
+          }
+        ]
+      },
+      {
+        "name": "FictionPress",
+        "packageName": "eu.kanade.tachiyomi.extension.en.fictionpress",
+        "resources": {
+          "apkUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/6021a52/dokusho-en.fictionpress-v2.0.2.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Globeeeee/dokusho-extensions-source@main/src/en/fictionpress/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/6021a52/dokusho-en.fictionpress-v2.0.2.jar"
+        },
+        "extensionLib": "2.0",
+        "versionCode": "200002",
+        "versionName": "2.0.2",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "3951961060916899464",
+            "name": "FictionPress",
+            "language": "en",
+            "homeUrl": "https://www.fictionpress.com"
           }
         ]
       },
@@ -302,6 +365,48 @@
         ]
       },
       {
+        "name": "SpaceBattles",
+        "packageName": "eu.kanade.tachiyomi.extension.en.spacebattles",
+        "resources": {
+          "apkUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/6021a52/dokusho-en.spacebattles-v2.0.2.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Globeeeee/dokusho-extensions-source@main/src/en/spacebattles/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/6021a52/dokusho-en.spacebattles-v2.0.2.jar"
+        },
+        "extensionLib": "2.0",
+        "versionCode": "200002",
+        "versionName": "2.0.2",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "3342216309158021908",
+            "name": "SpaceBattles",
+            "language": "en",
+            "homeUrl": "https://forums.spacebattles.com"
+          }
+        ]
+      },
+      {
+        "name": "Sufficient Velocity",
+        "packageName": "eu.kanade.tachiyomi.extension.en.sufficientvelocity",
+        "resources": {
+          "apkUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/6021a52/dokusho-en.sufficientvelocity-v2.0.2.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Globeeeee/dokusho-extensions-source@main/src/en/sufficientvelocity/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/6021a52/dokusho-en.sufficientvelocity-v2.0.2.jar"
+        },
+        "extensionLib": "2.0",
+        "versionCode": "200002",
+        "versionName": "2.0.2",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "8110346331336221932",
+            "name": "Sufficient Velocity",
+            "language": "en",
+            "homeUrl": "https://forums.sufficientvelocity.com"
+          }
+        ]
+      },
+      {
         "name": "Wattpad",
         "packageName": "eu.kanade.tachiyomi.extension.en.wattpad",
         "resources": {
@@ -319,6 +424,27 @@
             "name": "Wattpad",
             "language": "en",
             "homeUrl": "https://www.wattpad.com"
+          }
+        ]
+      },
+      {
+        "name": "Webnovel",
+        "packageName": "eu.kanade.tachiyomi.extension.en.webnovel",
+        "resources": {
+          "apkUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/6021a52/dokusho-en.webnovel-v2.0.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Globeeeee/dokusho-extensions-source@main/src/en/webnovel/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/6021a52/dokusho-en.webnovel-v2.0.1.jar"
+        },
+        "extensionLib": "2.0",
+        "versionCode": "200001",
+        "versionName": "2.0.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "2969574715769350777",
+            "name": "Webnovel",
+            "language": "en",
+            "homeUrl": "https://www.webnovel.com"
           }
         ]
       },
