@@ -8,6 +8,27 @@
   "extensionList": {
     "extensions": [
       {
+        "name": "Project Gutenberg",
+        "packageName": "eu.kanade.tachiyomi.extension.en.gutenberg",
+        "resources": {
+          "apkUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/3998023/dokusho-en.gutenberg-v2.0.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Globeeeee/dokusho-extensions-source@main/src/en/gutenberg/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/3998023/dokusho-en.gutenberg-v2.0.1.jar"
+        },
+        "extensionLib": "2.0",
+        "versionCode": "200001",
+        "versionName": "2.0.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "5263063031439760440",
+            "name": "Project Gutenberg",
+            "language": "en",
+            "homeUrl": "https://www.gutenberg.org"
+          }
+        ]
+      },
+      {
         "name": "Royal Road",
         "packageName": "eu.kanade.tachiyomi.extension.en.royalroad",
         "resources": {
@@ -88,6 +109,27 @@
             "name": "WuxiaWorld",
             "language": "en",
             "homeUrl": "https://www.wuxiaworld.com"
+          }
+        ]
+      },
+      {
+        "name": "Syosetu",
+        "packageName": "eu.kanade.tachiyomi.extension.ja.syosetu",
+        "resources": {
+          "apkUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/3998023/dokusho-ja.syosetu-v2.0.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Globeeeee/dokusho-extensions-source@main/src/ja/syosetu/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/3998023/dokusho-ja.syosetu-v2.0.1.jar"
+        },
+        "extensionLib": "2.0",
+        "versionCode": "200001",
+        "versionName": "2.0.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "1096552239279648467",
+            "name": "Syosetu",
+            "language": "ja",
+            "homeUrl": "https://ncode.syosetu.com"
           }
         ]
       }

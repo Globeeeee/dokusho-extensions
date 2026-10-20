@@ -1,4 +1,14 @@
 {
+  "eu.kanade.tachiyomi.extension.en.gutenberg": {
+    "apk": {
+      "name": "dokusho-en.gutenberg-v2.0.1.apk",
+      "sha256": "61ed355863a0eace3a74cfdef13374fdae61ba223c3127baaa154ab32a94c772"
+    },
+    "jar": {
+      "name": "dokusho-en.gutenberg-v2.0.1.jar",
+      "sha256": "5d4de0d85d6641a492ce138715753e99a5b53d634e7fcac570d830c872baf9e2"
+    }
+  },
   "eu.kanade.tachiyomi.extension.en.royalroad": {
     "apk": {
       "name": "dokusho-en.royalroad-v2.0.1.apk",
@@ -37,6 +47,16 @@
     "jar": {
       "name": "dokusho-en.wuxiaworld-v2.0.1.jar",
       "sha256": "a12a9333b9249e2ae22c7b119a4456b30181e67cca2b1edbb72585ee3d56ddf4"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.ja.syosetu": {
+    "apk": {
+      "name": "dokusho-ja.syosetu-v2.0.1.apk",
+      "sha256": "ef9d04b1c7214a69c2a654a6e59dc1827f3b24211401cca67cf8f367cc16a8d2"
+    },
+    "jar": {
+      "name": "dokusho-ja.syosetu-v2.0.1.jar",
+      "sha256": "a58d5713dd16dafcc4cea192c27fb52023605921d0b2c3b2b9e9b619cbd188c6"
     }
   }
 }
