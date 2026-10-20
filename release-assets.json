@@ -8,5 +8,15 @@
       "name": "dokusho-en.royalroad-v2.0.1.jar",
       "sha256": "bf27704789bd9b637cd06ece5e64cb91e1287f77ec80f11c2c3d0a01771eee81"
     }
+  },
+  "eu.kanade.tachiyomi.extension.en.scribblehub": {
+    "apk": {
+      "name": "dokusho-en.scribblehub-v2.0.1.apk",
+      "sha256": "bf513c13114403e13418aacfa3187429f762fff8c301e0ffd5f639dad0f1f647"
+    },
+    "jar": {
+      "name": "dokusho-en.scribblehub-v2.0.1.jar",
+      "sha256": "af37aa4b351fe2820aa6d70168625f19be3885ac55b81798b3234bf51034f755"
+    }
   }
 }

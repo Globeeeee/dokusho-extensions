@@ -27,6 +27,27 @@
             "homeUrl": "https://www.royalroad.com"
           }
         ]
+      },
+      {
+        "name": "Scribble Hub",
+        "packageName": "eu.kanade.tachiyomi.extension.en.scribblehub",
+        "resources": {
+          "apkUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/584e4f4/dokusho-en.scribblehub-v2.0.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Globeeeee/dokusho-extensions-source@main/src/en/scribblehub/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/Globeeeee/dokusho-extensions/releases/download/584e4f4/dokusho-en.scribblehub-v2.0.1.jar"
+        },
+        "extensionLib": "2.0",
+        "versionCode": "200001",
+        "versionName": "2.0.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "5572365414387909510",
+            "name": "Scribble Hub",
+            "language": "en",
+            "homeUrl": "https://www.scribblehub.com"
+          }
+        ]
       }
     ]
   }
